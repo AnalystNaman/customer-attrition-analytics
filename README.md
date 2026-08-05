@@ -32,7 +32,6 @@ The objective of this project was to:
 - Churn Rate (%)
 - Churned Customers
 - Customer Risk Type
-- Average Monthly Charges
 
 ---
 
