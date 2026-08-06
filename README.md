@@ -1,3 +1,11 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+
+![DAX](https://img.shields.io/badge/DAX-blue)
+
+![Power Query](https://img.shields.io/badge/Power%20Query-green)
+
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+
 # 📊 Telecom Customer Attrition Analytics Dashboard
 
 An interactive **Power BI dashboard** built to analyze customer churn in the telecom industry. This project identifies the key factors influencing customer attrition and provides actionable business recommendations using Power BI, DAX, and Power Query.
