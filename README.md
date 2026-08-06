@@ -40,13 +40,13 @@ The objective of this project was to:
 ## Executive Summary
 
 ![Executive Summary](executive-summary.png)
-
+The Executive Summary provides a high-level overview of customer churn, key performance indicators, major business insights, and recommended retention strategies for stakeholders.
 ---
 
 ## Analysis Dashboard
 
 ![Analysis Dashboard](analysis-dashboard.png)
-
+The analysis dashboard provides interactive insights into customer churn by examining contract type, tenure, online service adoption, customer risk segmentation, and monthly charges, enabling data-driven business decisions and customer retention strategies.
 ---
 
 ## 🔍 Dashboard Features
